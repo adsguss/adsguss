@@ -5,9 +5,25 @@
 💻 Desenvolvedor focado em criar soluções práticas e eficientes  
 🚀 Experiência em projetos web, automações e chatbots inteligentes  
 📍 Rio de Janeiro – Brasil  
-🔗 LinkedIn: https://www.linkedin.com/in/gaoares
 
+<br/>
+💻 Desenvolvedor Front-End, apaixonado por tecnologia, com conhecimento em Qualidade (QA) e Automação de Processos.
+Gosto de transformar ideias em soluções web práticas e funcionais, com foco em usabilidade, performance e boas práticas de desenvolvimento e de UI/UX.
+Atualmente, venho aprofundando meus estudos em:
 
+🧪 Testes de software e QA
+
+🏗️ Fundamentos de Engenharia de Software
+
+🤖 Automatização de processos, integração de APIs e lógica de negócios com n8n, JavaScript e Python
+
+🔧 Versionamento com Git e organização de tarefas com Trello / JIRA
+
+📚 Em constante aprendizado e sempre buscando desenvolver com qualidade, eficiência e agilidade.
+
+🤝 Aberto para trocar ideias e colaborar em projetos!
+
+---
 
   <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
     <img
