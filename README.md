@@ -73,26 +73,35 @@ Atualmente, venho aprofundando meus estudos em:
 ---
 
 
-### 📊 Estatísticas
+### 🧠 Projetos que resolvem problemas reais
 
-<img 
-  align="left"
-  alt="GitHub Stats"
-  title="GitHub Stats"
-  height="200"
-  style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api?username=adsguss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
+### 💈 Sistema Web para Salão
+Aplicação completa com interface responsiva e chat de agendamento automatizado.
+Foco em usabilidade e atendimento ao cliente.
 
-<img 
-  align="left"
-  alt="Top Langs"
-  title="Top Languages"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsguss&layout=compact&theme=dark&locale=pt-br"
-/>
+🔗 https://github.com/adsguss/Studio-ka
+-------
+### 🤖 Chatbot de Atendimento (Python)
+Bot inteligente para automatizar conversas e organizar solicitações de clientes.
 
+🔗 https://github.com/adsguss/Chat.bot.Sal-o
+-------
+### ⚽ Árbitro Digital de Pelada
+App web mobile-first para organizar partidas:
+cronômetro, placar automático e sorteio inteligente de times.
 
+🔗 https://github.com/adsguss/-rbitro-Digital-de-Pelada-ADP-
+-------
+### 💰 Controle de Despesas
+Sistema em Python para gerenciar gastos e organização financeira pessoal.
+
+🔗 https://github.com/adsguss/Controle-de-Despesas-PY
+-------
+### 🌐 Portfólio Web
+Site pessoal apresentando projetos e habilidades de desenvolvimento.
+
+🔗 https://github.com/adsguss/gsoares-portfolio
+------
 <br/>
 
 ---  
