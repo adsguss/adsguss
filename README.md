@@ -75,7 +75,6 @@ Atualmente, venho aprofundando meus estudos em:
 
 ### 📊 Estatísticas
 
-
 <img 
   align="left"
   alt="GitHub Stats"
@@ -87,11 +86,10 @@ Atualmente, venho aprofundando meus estudos em:
 
 <img 
   align="left"
-  alt="GitHub Stats"
-  title="GitHub Stats"
+  alt="Top Langs"
+  title="Top Languages"
   height="200"
-  style="padding-right:10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsguss)](https://github.com/anuraghazra/github-readme-stats"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsguss&layout=compact&theme=dark&locale=pt-br"
 />
 
 
