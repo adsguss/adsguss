@@ -12,17 +12,19 @@
 💻 Desenvolvedor Front-End, apaixonado por tecnologia, com conhecimento em Qualidade (QA) e Automação de Processos.
 Gosto de transformar ideias em soluções web práticas e funcionais, com foco em usabilidade, performance e boas práticas de desenvolvimento e de UI/UX.
 
-Atualmente, venho aprofundando meus estudos em:
+**Atualmente, venho aprofundando meus estudos em:**
 
-🧪 Testes de software e QA
+🐍 Desenvolvimento com Python (APIs, scripts, automação, manipulação de dados e lógica de negócio)
 
-🏗️ Fundamentos de Engenharia de Software
+🟨 JavaScript para aplicações web (front-end, consumo de APIs, interatividade e integração com backend)
 
-🤖 Automatização de processos, integração de APIs e lógica de negócios com n8n, JavaScript e Python
+🌐 Desenvolvimento web com foco em performance, usabilidade e boas práticas de código
 
-🔧 Versionamento com Git e organização de tarefas com Trello / JIRA
+🏗️ Fundamentos de Engenharia de Software aplicados à organização e estruturação de projetos
 
-📚 Em constante aprendizado e sempre buscando desenvolver com qualidade, eficiência e agilidade.
+🔧 Versionamento com Git e gestão de tarefas com Trello / JIRA
+
+📚 Em constante evolução técnica, buscando construir soluções eficientes, escaláveis e bem estruturadas
 
 🤝 Aberto para trocar ideias e colaborar em projetos!
 
