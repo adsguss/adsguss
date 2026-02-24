@@ -6,7 +6,7 @@
 🐍 Experiência com Python para automações, integrações e bots
 🚀 Experiência em projetos web, automações e chatbots inteligentes  
 
-**📍 Rio de Janeiro – Brasil **  
+** Rio de Janeiro – Brasil**  
 
 <br/>
 💻 Desenvolvedor Front-End, apaixonado por tecnologia, com conhecimento em Qualidade (QA) e Automação de Processos.
