@@ -12,6 +12,7 @@
 💻 Desenvolvedor Front-End, apaixonado por tecnologia, com conhecimento em Qualidade (QA) e Automação de Processos.
 Gosto de transformar ideias em soluções web práticas e funcionais, com foco em usabilidade, performance e boas práticas de desenvolvimento e de UI/UX.
 
+
 **Atualmente, venho aprofundando meus estudos em:**
 
 🐍 Desenvolvimento com Python (APIs, scripts, automação, manipulação de dados e lógica de negócio)
